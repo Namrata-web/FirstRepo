@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 12F9-C4C0
+
+ Directory of C:\Users\Sachi\Desktop\Git
+
+07-09-2020  14:51    <DIR>          .
+07-09-2020  14:51    <DIR>          ..
+07-09-2020  14:51                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  63,875,297,280 bytes free
